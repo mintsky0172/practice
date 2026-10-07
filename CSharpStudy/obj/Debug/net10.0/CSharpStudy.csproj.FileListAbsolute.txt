@@ -1,0 +1,14 @@
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/bin/Debug/net10.0/CSharpStudy
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/bin/Debug/net10.0/CSharpStudy.deps.json
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/bin/Debug/net10.0/CSharpStudy.runtimeconfig.json
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/bin/Debug/net10.0/CSharpStudy.dll
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/bin/Debug/net10.0/CSharpStudy.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.AssemblyInfoInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.AssemblyInfo.cs
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.csproj.CoreCompileInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.dll
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/refint/CSharpStudy.dll
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/CSharpStudy.genruntimeconfig.cache
+/Users/sominlee/Desktop/dev/csharp/practice/CSharpStudy/obj/Debug/net10.0/ref/CSharpStudy.dll

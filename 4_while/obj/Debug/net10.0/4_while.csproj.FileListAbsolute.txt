@@ -1,0 +1,14 @@
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/bin/Debug/net10.0/4_while
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/bin/Debug/net10.0/4_while.deps.json
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/bin/Debug/net10.0/4_while.runtimeconfig.json
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/bin/Debug/net10.0/4_while.dll
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/bin/Debug/net10.0/4_while.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.AssemblyInfoInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.AssemblyInfo.cs
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.csproj.CoreCompileInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.dll
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/refint/4_while.dll
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/4_while.genruntimeconfig.cache
+/Users/sominlee/Desktop/dev/csharp/practice/4_while/obj/Debug/net10.0/ref/4_while.dll

@@ -1,0 +1,14 @@
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/bin/Debug/net10.0/6_seoha
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/bin/Debug/net10.0/6_seoha.deps.json
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/bin/Debug/net10.0/6_seoha.runtimeconfig.json
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/bin/Debug/net10.0/6_seoha.dll
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/bin/Debug/net10.0/6_seoha.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.AssemblyInfoInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.AssemblyInfo.cs
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.csproj.CoreCompileInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.dll
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/refint/6_seoha.dll
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/6_seoha.genruntimeconfig.cache
+/Users/sominlee/Desktop/dev/csharp/practice/6_seoha/obj/Debug/net10.0/ref/6_seoha.dll

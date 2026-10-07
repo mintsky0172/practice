@@ -1,0 +1,14 @@
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.AssemblyInfoInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.AssemblyInfo.cs
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.csproj.CoreCompileInputs.cache
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/bin/Debug/net10.0/5_celcius
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/bin/Debug/net10.0/5_celcius.deps.json
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/bin/Debug/net10.0/5_celcius.runtimeconfig.json
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/bin/Debug/net10.0/5_celcius.dll
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/bin/Debug/net10.0/5_celcius.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.dll
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/refint/5_celcius.dll
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.pdb
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/5_celcius.genruntimeconfig.cache
+/Users/sominlee/Desktop/dev/csharp/practice/5_celcius/obj/Debug/net10.0/ref/5_celcius.dll
